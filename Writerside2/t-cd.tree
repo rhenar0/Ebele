@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="t-cd"
+                 name="TP1 - Collecte d'Informations"
+                 start-page="starter-topic.md">
+
+    <toc-element topic="starter-topic.md"/>
+    <toc-element topic="Partie-1.md"/>
+    <toc-element topic="Reference.md"/>
+    <toc-element topic="How-to.md"/>
+</instance-profile>

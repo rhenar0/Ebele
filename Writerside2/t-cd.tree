@@ -3,11 +3,9 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="t-cd"
-                 name="TP1 - Collecte d'Informations"
+                 name="TP1"
                  start-page="starter-topic.md">
 
-    <toc-element topic="starter-topic.md"/>
-    <toc-element topic="Partie-1.md"/>
-    <toc-element topic="Reference.md"/>
-    <toc-element topic="How-to.md"/>
+    <toc-element topic="Partie1.md"/>
+    <toc-element topic="Partie-3.md"/>
 </instance-profile>
